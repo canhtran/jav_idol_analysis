@@ -7,4 +7,4 @@ https://medium.com/@canhtran/python-data-analysis-on-japanese-adult-video-jav-da
 http://nbviewer.jupyter.org/github/canhtran/jav_idol_analysis/blob/master/eda_jav_idol.ipynb
 
 #### Dataset
-Please contact me at trandcanh[at]gmail.com
+For private purpose, some parts of data are sensitive so I cannot public it.
